@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://imgs.search.brave.com/kBF5G7-F4eQEr8fAyzkk0FGCEmcsnT9T0SnTf9viDpQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9i/ZWF1dGlmdWwtc2hv/dC1yYWlscm9hZC13/aXRoLXdoaXRlLWZv/Z18xODE2MjQtMjA1/MjEuanBnP3NpemU9/NjI2JmV4dD1qcGc");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 60%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+#increment-btn {
+    background: darkblue;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+#save-el{
+    font-weight: bold;
+}
+
